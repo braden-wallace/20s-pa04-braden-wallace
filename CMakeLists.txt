@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 project(20S-3353-PA04)
-set (EXE_NAME pa04)
+set (EXE_NAME PA04)
 
 set(CMAKE_CXX_STANDARD 14)
 set (CMAKE_CXX_FLAGS "-Wall -O3")

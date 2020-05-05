@@ -3,7 +3,7 @@ name: 20S-3353-PA04
 on: [push]
 
 env:
-  EXE_NAME: pa04
+  EXE_NAME: PA04
   ### ***** Students!  Put the name of the input files and output files here.
   ###   List them in the order that they need to appear in Argv param of main.
   ###   Output Files will follow input files
